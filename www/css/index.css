@@ -1,0 +1,89 @@
+ div .md-sync {
+        padding: 0;
+    }
+    
+    div .md-sync #demo {
+        display: block;
+    }
+    
+    div .md-sync #show {
+        position: static;
+    }
+    
+    div .md-sync .icc {
+        padding: 0;
+    }
+    
+    div .md-sync .ic {
+        text-align: left;
+    }
+    
+    div .md-sync .ic p {
+        padding: 0 5px;
+        color: #000;
+        text-shadow: none;
+    }
+    
+    div .md-sync .md-cal-btn-c .md-cal-auth {
+        display: block;
+        margin-top: 5px;
+        width: 100%;
+    }
+    
+    .md-cal-list {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+    }
+    
+    .md-cal-list li {
+        position: relative;
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        background: #f0f0f0;
+        border-bottom: 1px solid #b1b1b1;
+        border-top: 1px solid #fff;
+        padding: 5px 40px 5px 10px;
+        color: #333;
+    }
+    
+    .md-cal-list h3 {
+        margin: 5px 0;
+        font-weight: normal;
+    }
+    
+    .md-cal-list p {
+        display: block;
+        margin: 5px 0;
+        color: #717171;
+    }
+    
+    .md-cal-color {
+        width: 5px;
+        height: 100%;
+        position: absolute;
+        top: 0;
+        left: 0;
+    }
+    
+    .md-cal-list .md-cal-sync {
+        position: absolute;
+        right: 0;
+        top: 0;
+        padding-top: 25px;
+        padding-right: 15px;
+        text-decoration: underline;
+    }
+    
+    .md-cal-btn-c {
+        padding: 0 5px;
+    }
+    
+    .md-sync {
+        padding: 0!importnat;
+    }
+    
+    .demo-preview .demo-note {
+        margin: 5px;
+    }
